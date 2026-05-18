@@ -4,7 +4,9 @@ numpy>=1.21.0
 pandas>=1.3.0
 scipy>=1.7.0
 matplotlib>=3.4.0
-jieba>=0.42.0
+geopy>=2.0.0
 
 # Android 数据采集
-# Android Studio + Kotlin, 见 docs/IMU采集器.md
+# Android Studio + Kotlin 1.9.20
+# PyTorch Android 1.12.2 (org.pytorch:pytorch_android:1.12.2)
+# 编译 SDK 34, 最低 SDK 26, arm64-v8a
